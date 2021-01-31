@@ -1,6 +1,6 @@
 """
 Ohjelmoinnin harjoitustyö syksy 2020.
-Konsta Puranen, 521032 
+Konsta Puranen 
 
 Ohjelma tarjoaa käyttäjälle sopivaa yhtiötä käyttäjän määrittämien tunnuslukujen perusteella.
 Alkutiedoston lista koostuu Inderes:n seuraamista 120 yhtiöstä helsingin pörssissä 2019.
