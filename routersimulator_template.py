@@ -1,8 +1,7 @@
 """
-Ohjelmointi 1 Kevät.
+Ohjelmointi 1, Kevät, 2020.
 Tehtävä: Reititysprotokollasimulaattori
 Konsta Puranen
-278850
 """
 
 router_dict = {}    # Avain: reitittimen nimi, Arvo: Router-olio
