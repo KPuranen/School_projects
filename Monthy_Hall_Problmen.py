@@ -1,6 +1,6 @@
 # Monty Hall Problem. 
 # Ohjelmointi 1 Kevät 2020
-# Konsta Puranen, 278850
+# Konsta Puranen
 
 from tkinter import *
 from random import *
